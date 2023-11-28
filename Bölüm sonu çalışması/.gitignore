@@ -1,0 +1,9 @@
+#resimler
+*.jpg
+*.png
+!posterler-bilgisayar.jpg.jpg
+
+#videolar
+*.vob
+*.mp4
+
